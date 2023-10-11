@@ -1,6 +1,9 @@
 # ExercicioLeituraeCriacaoDeArquivosJava
 ALGORITMOS E PROGRAMAÇÃO: ESTRUTURAS LINEARES
 
+Para o funcionamento do código:
+Quando perguntando o nome do arquivo de itens da locadora, digite: itens.txt
+
  **Enunciado do exercício**
 
 **1)** Crie a classe abstrata Item, que possui um nome, um preço e um identificador (inteiro). No construtor de
