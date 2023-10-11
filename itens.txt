@@ -1,0 +1,20 @@
+  1 | CD  | CD Duplo da banda Calipso          | 1.99   | Joelma e Chimbinha        | 10     
+  2 | CD  | CD Ao vivo do Belo                 | 0.00   | Belo                      | 19      
+  3 | DVD | A Bela e a Fera                    | 4.60   | Mundo da Bela             | 1984      
+  4 | CD  | Jack Jhonson                       | 25.00  | To The Sea                | 20      
+  5 | CD  | CD Double Face - Duplo             | 29.90  | Zeze de Camargo e Luciano | 21      
+  6 | CD  | CD Thriller 25 Anos                | 14.90  | Michael Jackson           | 9      
+  7 | DVD | DVD do Luan Santana                | 24.90  | Luan Santana - Ao Vivo    | 2009      
+  8 | DVD | DVD Maria Cecilia e Rodolfo        | 39.90  | Voce de Volta             | 2010      
+  9 | CD  | CD Duetos                          | 19.90  | Ivete Sangalo             | 28      
+ 10 | DVD | DVD do Daniel                      | 29.90  | Raizes                    | 2009      
+ 11 | DVD | DVD Duplo do U2                    | 54.90  | Live at the Rose Bowl     | 2009      
+ 12 | CD  | CD Camisa 10 Joga Bola             | 24.90  | Charlie Brown Jr.         | 14      
+ 13 | DVD | DVD Queen                          | 24.90  | Rock Montreal e Live Aid  | 2010      
+ 14 | DVD | DVD ao Vivo do Metalica            | 54.90  | Orgulho, Paixao e Gloria  | 2008      
+ 15 | CD  | CD Revanche                        | 19.90  | Fresno                    | 23      
+ 16 | CD  | CD Chiaroscuro                     | 24.90  | Pitty                     | 29      
+ 17 | DVD | DVD 24 Horas, temporadas 1 ate 7   | 199.00 | DVD 24 Horas              | 2008      
+ 18 | DVD | DVD Homem Aranha (Edicao Especial) | 29.90  | Trilogia Homem Aranha     | 2009      
+ 19 | DVD | DVD Smallville - Ultima Temporada  | 139.00 | Smallville                | 2010      
+ 20 | CD  | CD I am... Sasha Fierce - Duplo    | 24.90  | Beyonce                   | 20 
