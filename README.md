@@ -1,7 +1,7 @@
 # ExercicioLeituraeCriacaoDeArquivosJava
 ALGORITMOS E PROGRAMAÇÃO: ESTRUTURAS LINEARES
 
-Para o funcionamento do código:
+Para o funcionamento do código:<br/>
 Quando perguntando o nome do arquivo de itens da locadora, digite: itens.txt
 
  **Enunciado do exercício**
